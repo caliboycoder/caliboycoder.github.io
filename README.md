@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ram </h1>
+<h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">A passionate Computer Engineer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caliboycoder&label=Profile%20views&color=917fb3&style=flat" alt="caliboycoder" /> </p>
